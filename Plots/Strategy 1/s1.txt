@@ -1,0 +1,1 @@
+Startegy 1  : Random Centroids
